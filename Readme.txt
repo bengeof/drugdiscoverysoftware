@@ -1,7 +1,3 @@
-COVID-19 
-Drug Target -  AAZ82016
-
-
 
 Requirements [Libraries]:- 
 
@@ -12,12 +8,7 @@ scikit-learn
 seaborn
 
 
-The Program Would Prefer Good Internet Speed and Computation Power. 
-It'll Run Until It Fetches the Entire Data, So Time Taken is Pretty High and is Totally Dependent on the Dataset.
-Warnings might be shown , Which Can Be Ignored.
-
-The Final Output is the 30 Compounds Printed in The End Which are Identified with the Top IC50 Values
-
-The Program Should Run in Python 3 Environment and Should Have Stable Internet Connectivity. ! 
-
-
+The .py file should be be placed in a working folder and executed in python 3 environment. 
+The program is expected to run for a few hours with variation based on Internet speed and CPU speed. 
+Strong Internet connection is mandatory for a successful run. 
+The Final Output in the end is top 30 drug leads identified with PubChem CIDs.
